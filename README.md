@@ -18,12 +18,12 @@ Este projeto consiste no desenvolvimento de uma aplicação para controle de fin
 
 ## Visualização do Projeto
 
-## 🔗 Pré-requisitos
+
 ![App Screenshot](https://i.imgur.com/XqVLTrJ.png)
 ![App Screenshot](https://i.imgur.com/LcZ4Kt9.png)
 ![App Screenshot](https://i.imgur.com/Rj4eKdP.png)
 
-
+## 🔗 Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: git e node.js. Você também vai precisar de um editor de código, recomendo o VS Code.
 
 ## Rodando o Projeto
